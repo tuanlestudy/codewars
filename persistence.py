@@ -38,8 +38,8 @@ def persistence(n):
             n = result
         else:
             break
-    print (result)
-    print (total)
+    #print (result)
+    #print (total)
     return total
-persistence(999)
+#persistence(999)
     
